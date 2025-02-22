@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hi, I'm [Harsh Kumar]!
+👋 Hi, I'm Harsh Kumar!
 🚀 Frontend Developer | 1.5+ Years Experience
 
 I specialize in building responsive, user-friendly web applications with modern frameworks and technologies. Passionate about creating seamless UI/UX experiences and writing clean, maintainable code.
