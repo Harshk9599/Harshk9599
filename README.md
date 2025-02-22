@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+👋 Hi, I'm [Harsh Kumar]!
+🚀 Frontend Developer | 1.5+ Years Experience
+
+I specialize in building responsive, user-friendly web applications with modern frameworks and technologies. Passionate about creating seamless UI/UX experiences and writing clean, maintainable code.
+
+💻 Tech Stack:
+
+Languages: HTML, CSS, JavaScript, TypeScript
+Frameworks/Libraries: React.js, Next.js, Tailwind CSS
+Tools: Git, Webpack, Vite, Figma
+🔍 What I’m Working On:
+
+Improving performance optimization for web applications
+Exploring advanced React patterns and state management
+Enhancing UI/UX with modern design principles
+📫 Let's Connect:
+
+
+LinkedIn - www.linkedin.com/in/harsh-kashyap-241102-JS </br>
+Emai - harshkashyap14321@gmail.com
+
 <!--
 **Harshk9599/Harshk9599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
